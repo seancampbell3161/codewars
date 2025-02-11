@@ -1,0 +1,15 @@
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/bin/Debug/net8.0/CodeWars
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/bin/Debug/net8.0/CodeWars.deps.json
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/bin/Debug/net8.0/CodeWars.runtimeconfig.json
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/bin/Debug/net8.0/CodeWars.dll
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/bin/Debug/net8.0/CodeWars.pdb
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.AssemblyInfoInputs.cache
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.AssemblyInfo.cs
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.csproj.CoreCompileInputs.cache
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.sourcelink.json
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.dll
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/refint/CodeWars.dll
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.pdb
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/CodeWars.genruntimeconfig.cache
+/Users/seancampbell/Documents/source/repos/codewars/C#/CodeWars/CodeWars/obj/Debug/net8.0/ref/CodeWars.dll
